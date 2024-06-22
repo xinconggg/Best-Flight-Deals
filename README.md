@@ -2,6 +2,8 @@
 # Overview
 The Flight Price Tracker is a Python application designed to monitor flight prices between a specified origin city and various destination cities. It utilizes the Kiwi Tequila API for flight searches, Google Sheets for destination data storage, and Twilio for SMS notifications. The application periodically checks for flight prices, compares them with pre-set thresholds, and sends SMS alerts for any price drops below the specified thresholds.
 
+![Screenshot 2024-06-22 230914](https://github.com/xinconggg/Best-Flight-Deals/assets/82378681/7f768e7f-bbc8-49db-8d58-8565598620bb)
+
 ## Features
 #### 1. Main Application Logic
 - **main.py:** Orchestrates the main functionality of the application.
